@@ -1,4 +1,1 @@
-aws_cli
-=======
-
-AWS CLI
+install aws cli
