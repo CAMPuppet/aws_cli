@@ -1,4 +1,4 @@
-class aws{
+class aws_cli {
     exec{ "install_pip":
         command => "easy_install pip && pip install setuptools --no-use-wheel --upgrade",
         returns => [ 0, 1, 255 ]
